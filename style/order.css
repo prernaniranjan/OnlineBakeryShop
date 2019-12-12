@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.head{
+    width:100%;
+    height:75px;
+    position:absolute;
+}
+.container{
+    height:600px;
+    width:100%;
+    padding-top: 75px;
+    overflow: hidden;
+    overflow-y: auto;
+    background-color:wheat;
+}
+.productdetail{
+    border:1px;
+    margin-left: 10%;
+    width:80%;
+    height:180px;
+    color:black;
+}
+.userdetail{
+    border:1px;
+    margin-left: 10%;
+    width:80%;
+    height:200px;
+    color:black;
+}
+.input{
+    width: 100%;
+    height:50px;
+}

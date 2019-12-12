@@ -1,0 +1,20 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.menuhead{
+    color:blue;
+    text-align: center;
+}
+table{
+    width:80%;
+    margin-left: 10%;
+    border-collapse: collapse;
+}
+td{
+    text-align: center;
+    height:30px;
+}
+tr:nth-child(even){
+    background-color:windowframe;
+}

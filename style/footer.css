@@ -1,0 +1,99 @@
+.footer{
+    width: 100%;
+    height: 300px;
+    background-color:maroon;
+     
+}
+.footer1{
+    width: 25%;
+    height: 300px;
+    border: 1px inset white;
+    color: white;
+    float: left;
+}
+.footer2{
+    width: 38%;
+    height: 300px;
+    border: 1px inset white;
+    color: white;
+    float: left;
+}
+.footer3{
+    width: 36.5%;
+    height: 300px;
+    border: 1px inset white;
+    color: white;
+    float: left;
+}
+select{
+    height: 40px;
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 5%;
+}
+#demo{
+    text-align: center;
+}
+.facebooklink{
+    width:10%;
+    height:70px;
+    margin-left: 30%;
+    text-align: center;
+    border:0.5px solid white;
+}
+.feedbackbox{
+    width:60%;
+    margin-left: 10%;
+    height:40px;
+    color:white;
+    font-size:2vw;
+    border:1px solid white; 
+    
+}
+button{
+    background-color: wheat;
+    color: maroon;
+    border: 1 px soild maroon;
+    height: 50px;
+    width: 50%;
+    margin-left: 30%;
+       
+}
+.w3-container{
+    background-color: wheat;
+    color: maroon;
+    
+    
+    
+}
+.w3-container input{
+    color: maroon;
+    width: 50%;
+    margin-top: 10px;
+    /*border-bottom: 1px solid maroon;*/
+    /*background: transparent;*/
+    outline: none;
+    height: 40px;
+    margin-left: 5%;
+    width:90%;
+    color: maroon;
+    font-size: 1vw;
+    color:maroon;
+    
+}
+input{
+    text-align: center;
+}
+
+.w3-container input[type="submit"]
+{
+    border: none;
+    outline: none;
+    height: 50px;
+    color: #fff;
+    font-size: 2vw; 
+    /*border-radius:20px;*/
+    width: 20%;
+    /*margin-left: 20%;*/
+    background-color: maroon;
+}

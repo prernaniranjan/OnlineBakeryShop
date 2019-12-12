@@ -1,0 +1,57 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.sigin{
+    height: 500px;
+    width: 40%;
+    background-color: wheat;
+    margin-top: 100px;
+    margin-left: 30%;
+    border-radius: 20px;
+    opacity: 0.5px;
+}
+h1{
+    text-align: center;
+    color: maroon;
+    margin-top: 0px;
+     border-radius: 20px;
+    opacity: 0.5px;
+    font-size:2.5vw;
+    padding-top: 4%;
+}
+input{
+    text-align: center;
+}
+
+.sigin input{
+     border: none;
+    border-bottom: 1px solid maroon;
+    background: transparent;
+    outline: none;
+    height: 40px;
+    margin-left: 5%;
+    width:90%;
+    color: #fff;
+    font-size: 1vw;
+}
+.sigin input[type="submit"]
+{
+    border: none;
+    outline: none;
+    height: 65px;
+    color: #fff;
+    font-size: 2vw; 
+    border-radius:20px;
+    width: 60%;
+    margin-left: 20%;
+    background-color: maroon;
+}
+.sigin input[type="submit"]:hover{
+    cursor: pointer;
+    background-color: red;
+}
+
+
+
+

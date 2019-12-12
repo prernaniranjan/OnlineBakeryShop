@@ -1,0 +1,58 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.forgate{
+    height: 500px;
+    width: 40%;
+    background-color: wheat;
+    margin-top:100px;
+    margin-left: 30%;
+    border-radius: 20px;
+   
+}
+h1{
+    color: maroon;
+    text-align: center;
+    padding: 5%;
+    margin-top: 0px;
+}
+
+h3{
+    color: maroon;
+    text-align: center;
+}
+
+.forgate input[type="text"]
+{
+    height: 30px;
+    width:50%;
+    height: 30px;
+    margin-left:25%;
+    font-size: 1vw;
+    border: 1px solid maroon;
+    border-radius: 10px;
+}
+
+.forgate input[type="submit"]
+{
+    border: none;
+    outline: none;
+    height: 45px;
+    color: #fff;
+    font-size: 2vw;
+    color: maroon;
+    border-radius:10px;
+    width: 30%;
+    background-color: maroon;
+    border: 2px solid maroon;
+    margin-left: 35%;
+    color: white;
+}
+.forgate input[type="submit"]:hover{
+    cursor: pointer;
+    background-color: red;
+}
+
+
+

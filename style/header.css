@@ -1,0 +1,13 @@
+.headercategory{
+    height: 60px;
+    width: 100%;
+    background-color: maroon;
+   margin-top:0px;
+   padding-top:15px;
+  
+}
+.headermenu{
+    width:80%;
+    margin-left: 10%;
+    height:30px;
+}

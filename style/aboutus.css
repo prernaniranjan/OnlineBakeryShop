@@ -1,0 +1,41 @@
+body{
+    padding: 0px;
+    margin: 0px;
+   
+}
+h1{
+     text-align: center;
+    color: maroon;
+    font-size:60px;
+    margin-top: 30px;
+    padding-top:16px;
+    
+}
+.about{
+    height: 600px;
+    width: 100%;
+    background-color: wheat;
+    margin-top: -30px;
+   
+   
+}
+.about1{
+    height: 450px;
+    width: 80%;
+    background-color: maroon;
+    /*margin-left: 10%;*/
+    margin: auto;
+    /*margin-top: 50px;*/
+   
+}
+.about2{
+    height: 450px;
+    width: 50%;
+    background-color: white;
+    float: right;
+    font-size: 1.2vw;
+    /*border: 1px solid maroon;*/
+     /*border: 3px solid graytext;*/
+    /*border-radius: 3%;*/
+}
+

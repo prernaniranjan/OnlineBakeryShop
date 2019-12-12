@@ -1,0 +1,64 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.head{
+    width:100%;
+    height:75px;
+    position:absolute;
+    z-index: 2;
+}
+.gallery{
+    height: auto;
+    width: 100%;
+    padding-top:70px;
+    background-color: wheat;
+    /*margin-top: -50px;*/
+   
+  
+}
+h1{
+    text-align: center;
+    color: maroon;
+    font-size:60px;
+    padding-top: 16px;
+   
+    
+}
+.gallery1{
+    height: 500px;
+    width: 100%;
+    background-color: wheat;
+    margin: auto;
+}
+.gallery2{
+    height: 170px;
+    width: 20%;
+    background-color: maroon;
+    float: left;
+    margin-left: 4%;
+    margin-top: 3%;
+    border: 2px solid white;
+    z-index: -2;
+   }
+   .gallery2>p{
+       height:30px;
+       position:absolute;
+       width:20%;
+     color:white;
+     text-align: center;
+     margin-top:-20px;
+     display:none;
+     border:1px white;
+     font-size: 1.2vw;
+     background-color:black;
+   }
+   .gallery2:hover p{
+       display:block;
+   }
+   .gallery2:hover img{
+       opacity: 0.5;
+ 
+   }
+    
+    

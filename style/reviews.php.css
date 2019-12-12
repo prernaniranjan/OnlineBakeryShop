@@ -1,0 +1,22 @@
+.container{
+    margin-top:20px;
+    width:50%;
+    margin-left: 25%;
+    height:500px;
+    padding: 10px;
+    margin-bottom: 20px;
+    background-color:wheat;
+    border:1px inset maroon;
+}
+.container>h1{
+    color:maroon;
+    text-align: center;
+}
+.container>.jitesh{
+    height: 400px;
+    background-color: white;
+    border:2px solid black;
+    width:100%;
+    overflow: hidden;
+    overflow-y:auto;
+}

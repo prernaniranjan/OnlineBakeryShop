@@ -1,0 +1,145 @@
+body{
+
+ padding:0px;
+ margin: 0px;
+ 
+}
+.head{
+    width:100%;
+    height:100px;
+    position:fixed;
+    z-index: 2;
+}
+
+.main{
+    height:600px;
+    width: 100%;
+    padding-top:60px;
+    background-color: green;
+    /*position: absolute;*/
+}
+.smain1{
+    height:600px;
+    width: 100%;
+    background-color: wheat;
+   
+    /*border:1px inset black;*/
+    /*position: absolute;*/
+}
+.smain11{
+    height: 570px;
+    width: 70%;
+    background-color: wheat;
+    margin-left: 15%;
+}
+h1{
+    text-align: center;
+    margin-top: 0%;
+    padding: 5%;
+    color: maroon;
+    font-size: 300%;
+}
+h3{
+    text-align: center;
+    color: maroon;
+}
+
+
+.smain2{
+    height: 700px;
+    width: 100%;
+    margin-top:-26px;
+    background-color: wheat;
+}
+.smain22{
+    /*position: absolute;*/
+    height: 650px;
+    width: 90%;
+    background-color: yellowgreen;
+    margin-left: 5%;
+    margin-right: 6%;
+    margin-top: 2%;
+   }
+   .smain222{
+       height:650px;
+       width:50%;
+       background-color: black;
+      float: left;
+    
+   }
+   .smain2221{
+       height: 325px;
+       width: 100%;
+       background-color: pink;
+      
+       /*float:right;*/
+       
+   }
+   .smain2222{
+       height: 325px;
+       width: 100%;
+       background-color: maroon;
+      
+      
+   }
+  
+ 
+    .smain22231{
+       height: 325px;
+       width: 100%;
+       background-color: maroon;
+      
+      }
+    .smain22232{
+       height: 325px;
+       width: 100%;
+       background-color:maroon;
+    }
+    .smain222311{
+       height: 200px;
+        width: 30%;
+        background-color: maroon;
+        margin: auto;
+        /*margin-top: -15px;*/
+        position: absolute;
+        margin-top: 70px;
+        margin-left: 90px;
+     
+    }
+    .smain22222{
+        height: 200px;
+        width: 30%;
+        background-color: maroon;
+        margin: auto;
+        /*margin-top: -15px;*/
+        position: absolute;
+        margin-top: 70px;
+        margin-left: 90px;
+     
+       
+       
+    }
+    .mid1{
+        position: absolute;
+        height: 160px;
+        width: 15%;
+        background-color: maroon;
+        border-radius: 60%;
+        margin-left:  38%;
+        margin-top:-250px;
+       
+        
+    }
+    .mid2{
+        position: absolute;
+        height: 160px;
+        width: 15%;
+         background-color: maroon;
+        border-radius: 60%;
+        margin-left: -8%;
+        margin-top:400px;
+       
+        
+    }
+    
+

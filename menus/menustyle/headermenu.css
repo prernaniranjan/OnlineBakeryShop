@@ -1,0 +1,13 @@
+.headermenucategory{
+    width:100%;
+    height:30px;
+}
+.headermenus{
+    width:12%;
+    height:30px;
+    float:left;
+}
+a:hover{
+    /*font-size:10px;*/
+    color:red;
+}

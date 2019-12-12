@@ -1,0 +1,14 @@
+.footercategory{
+    width:100%;
+    
+}
+.footermenus{
+    width: 100%;
+    height:30px;
+    text-decoration: none;
+    color:white;
+}
+a{
+    color:white;
+    text-decoration: none;
+}

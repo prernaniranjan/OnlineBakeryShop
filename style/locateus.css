@@ -1,0 +1,55 @@
+body{
+    padding: 0px;
+    margin: 0px;
+   
+}
+.head{
+    width:100%;
+    height:70px;
+    position:fixed;
+}
+.locate{
+    padding-top:20px;
+    width: 100%;
+    height: 550px;
+    background-color: wheat;
+}
+.locate1{
+    width: 50%;
+    height: 550px;
+    background-color: wheat;
+    margin-left: 20%;
+}
+.locate2{
+    height: 500px;
+    width: 40%;
+    background-color: wheat;
+    float: left;
+        
+}
+
+h1{
+    text-align: center;
+    color: maroon;
+    padding: 10%;
+    font-size: 30px;
+}
+p{
+    margin-left: 25%;
+}
+button{
+    height: 40px;
+    width: 40%;
+    background-color: maroon;
+    margin-left: 20%;
+    padding-bottom: 15%;
+    color: white;
+}
+        
+.locate3{
+    height: 500px;
+    width: 40%;
+    background-color: wheat;
+    float: right;
+   
+}

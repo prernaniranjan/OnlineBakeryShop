@@ -1,0 +1,24 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.head{
+    width:100%;
+    height:70px;
+    position:fixed;
+}
+.container{
+    width:100%;
+    padding-top: 70px;
+    height:550px;
+    background-color:wheat;
+}
+.user{
+    border:1px solid black;
+    margin-top:50px;
+    border-radius: 20px;
+    color:black;
+    margin-left: 20%;
+    width:60%;
+    height:400px;
+}
